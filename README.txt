@@ -1,7 +1,3 @@
-AUTHOR: Oluwaseun Samuel Ogunmeru
-
-STUDENT ID: 101229829
-
 PROGRAM DESCRIPTION: This program manages the appointment schedule of a veterinary clinic.
                      The end user will be able to book a new appointment, or print the entire schedule
                      of appointments, or print the animal information
